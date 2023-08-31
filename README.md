@@ -27,4 +27,4 @@ Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
 
 10. [YT] Complete Hospital Website: [GitHub](https://github.com/Cholicer/10_Complete_Hospital_Website) | [View Live](https://cholicer.github.io/10_Complete_Hospital_Website/)
 
-11. Beginner's UI: GitHub | View Live
+11. Beginner's UI: [GitHub](https://github.com/Cholicer/11_Beginners_UI) | [View Live](https://cholicer.github.io/11_Beginners_UI/)
