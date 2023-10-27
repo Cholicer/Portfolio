@@ -6,31 +6,31 @@ Below are the projects I did while studying Frontend.
 Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
 
 ## My Projects
-1. [YT] Image Gallery Website: [GitHub](https://github.com/Cholicer/01_Image_Gallery_Website) | [View Live](https://cholicer.github.io/01_Image_Gallery_Website/)
+1. [YT] [Image Gallery Website](https://github.com/Cholicer/01_Image_Gallery_Website) | [Demo](https://cholicer.github.io/01_Image_Gallery_Website/)
 
-2. [YT] Responsive Registration Form: [GitHub](https://github.com/Cholicer/02_Responsive_Registration_Form) | [View Live](https://cholicer.github.io/02_Responsive_Registration_Form/)
+2. [YT] [Responsive Registration Form](https://github.com/Cholicer/02_Responsive_Registration_Form) | [Demo](https://cholicer.github.io/02_Responsive_Registration_Form/)
 
-3. [YT] Rock Paper Scissors: [GitHub](https://github.com/Cholicer/03_Rock_Paper_Scissors) | [View Live](https://cholicer.github.io/03_Rock_Paper_Scissors/)
+3. [YT] [Rock Paper Scissors](https://github.com/Cholicer/03_Rock_Paper_Scissors) | [Demo](https://cholicer.github.io/03_Rock_Paper_Scissors/)
 
-4. [YT] Snake Game: [GitHub](https://github.com/Cholicer/04_Snake_Game) | [View Live](https://cholicer.github.io/04_Snake_Game/)
+4. [YT] [Snake Game](https://github.com/Cholicer/04_Snake_Game) | [Demo](https://cholicer.github.io/04_Snake_Game/)
 
-5. [YT] Hangman Game: [GitHub](https://github.com/Cholicer/05_Hangman_Game) | [View Live](https://cholicer.github.io/05_Hangman_Game/)
+5. [YT] [Hangman Game](https://github.com/Cholicer/05_Hangman_Game) | [Demo](https://cholicer.github.io/05_Hangman_Game/)
 
-6. [YT] Parallax Scrolling Website: [GitHub](https://github.com/Cholicer/06_Parallax_Scrolling_Website) | [View Live](https://cholicer.github.io/06_Parallax_Scrolling_Website/)
+6. [YT] [Parallax Scrolling Website](https://github.com/Cholicer/06_Parallax_Scrolling_Website) | [Demo](https://cholicer.github.io/06_Parallax_Scrolling_Website/)
 
-7. [YT] Responsive Photography Portfolio: [GitHub](https://github.com/Cholicer/07_Responsive_Photography_Portfolio) | [View Live](https://cholicer.github.io/07_Responsive_Photography_Portfolio/)
+7. [YT] [Responsive Photography Portfolio](https://github.com/Cholicer/07_Responsive_Photography_Portfolio) | [Demo](https://cholicer.github.io/07_Responsive_Photography_Portfolio/)
 
-8. [YT] Complete Personal Portfolio: [GitHub](https://github.com/Cholicer/08_Complete_Personal_Portfolio) | [View Live](https://cholicer.github.io/08_Complete_Personal_Portfolio/)
+8. [YT] [Complete Personal Portfolio](https://github.com/Cholicer/08_Complete_Personal_Portfolio) | [Demo](https://cholicer.github.io/08_Complete_Personal_Portfolio/)
 
-9. Maxima Tasks: [GitHub](https://github.com/Cholicer/09_Maxima_Tasks) | [View Live](https://cholicer.github.io/09_Maxima_Tasks/)
+9. [Maxima Tasks](https://github.com/Cholicer/09_Maxima_Tasks) | [Demo](https://cholicer.github.io/09_Maxima_Tasks/)
 
-10. [YT] Complete Hospital Website: [GitHub](https://github.com/Cholicer/10_Complete_Hospital_Website) | [View Live](https://cholicer.github.io/10_Complete_Hospital_Website/)
+10. [YT] [Complete Hospital Website](https://github.com/Cholicer/10_Complete_Hospital_Website) | [Demo](https://cholicer.github.io/10_Complete_Hospital_Website/)
 
-11. Beginner's UI: [GitHub](https://github.com/Cholicer/11_Beginners_UI) | [View Live](https://cholicer.github.io/11_Beginners_UI/)
+11. [Beginner's UI](https://github.com/Cholicer/11_Beginners_UI) | [Demo](https://cholicer.github.io/11_Beginners_UI/)
     
 ---
 
-What a dogs##t.
+<h2>What a dogs##t.</h2>
 
 My last project that i posted here is [flowrise](https://github.com/Cholicer/flowrise-nuxt-arsy) you can see the [demo](https://flowrise-nuxt-arsy.vercel.app/). 
 
@@ -47,7 +47,7 @@ Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtub
 <img src="https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90" width="500" height="400">
 <img src="https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6" width="500" height="400">
 </div>
-
+<br>
 ---
 
-Still unemployed
+<h2>Still unemployed.</h2>
