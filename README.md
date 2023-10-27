@@ -30,15 +30,15 @@ Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
 11. Beginner's UI: [GitHub](https://github.com/Cholicer/11_Beginners_UI) | [View Live](https://cholicer.github.io/11_Beginners_UI/)
 
 What a dogs##t.
-My last project that i posted here is [GitHub](https://github.com/Cholicer/flowrise-nuxt-arsy) you can see the [demo](https://flowrise-nuxt-arsy.vercel.app/). 
+My last project that i posted here is [flowrise](https://github.com/Cholicer/flowrise-nuxt-arsy) you can see the [demo](https://flowrise-nuxt-arsy.vercel.app/). 
 It was made with Prismic CMS and [YT] guidance.
 
 Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtube.com/@johnweeksdev)):
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266)
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a)
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe)
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6)
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90)
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266 | width=200)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a | width=200)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe | width=200)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6 | width=200)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90 | width=200)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6 | width=200)
 
 Still unemployed
