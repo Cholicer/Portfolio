@@ -1,4 +1,4 @@
-![image](https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90)# Portfolio
+# Portfolio
 It's Arystanbek, I'm a beginner in Frontend Development.
 
 Below are the projects I did while studying Frontend.
@@ -38,6 +38,7 @@ Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtub
 ![image](https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a)
 ![image](https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe)
 ![image](https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6)
+![image](https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90)
 ![image](https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6)
 
 Still unemployed
