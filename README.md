@@ -40,12 +40,12 @@ It was made with Prismic CMS and [YT] guidance.
 Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtube.com/@johnweeksdev)):
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
-    <img href="https://youtu.be/ZzuqwqP1wAQ?si=LLsaQtHidpfID-zm" src="https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266" width="500" height="400">
-    <img href="https://youtu.be/E-cg6Bqaxm0?si=qe4Qhs3POglHNG9Q" src="https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a" width="500" height="400">
-    <img href="https://youtu.be/KE5sQiHRZQg?si=0JhLyO6oL3qD9oXB" src="https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe" width="500" height="400">
-    <img href="https://youtu.be/dVcCRFVhz74?si=SnpV890gY2-f0RSt" src="https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6" width="500" height="400">
-    <img href="https://youtu.be/UPxId0g4QyI?si=YpvaC5g4dhmdfdaj" src="https://github.com/Cholicer/Portfolio/assets/58261264/4f84d51b-4bb4-4992-b543-b974e699a82c" width="500" height="400">
-    <img href="https://youtu.be/UPxId0g4QyI?si=YpvaC5g4dhmdfdaj" src="https://github.com/Cholicer/Portfolio/assets/58261264/0bfe5ee3-068d-46af-b4b3-4ea929025b0a" width="500" height="400">
+    <a href="https://youtu.be/ZzuqwqP1wAQ?si=LLsaQtHidpfID-zm"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266" width="500" height="400"></a>
+    <a href="https://youtu.be/E-cg6Bqaxm0?si=qe4Qhs3POglHNG9Q"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a" width="500" height="400"></a>
+    <a href="https://youtu.be/KE5sQiHRZQg?si=0JhLyO6oL3qD9oXB"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe" width="500" height="400"></a>
+    <a href="https://youtu.be/dVcCRFVhz74?si=SnpV890gY2-f0RSt"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6" width="500" height="400"></a>
+    <a href="https://youtu.be/UPxId0g4QyI?si=YpvaC5g4dhmdfdaj"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/4f84d51b-4bb4-4992-b543-b974e699a82c" width="500" height="400"></a>
+    <a href="https://youtu.be/UPxId0g4QyI?si=YpvaC5g4dhmdfdaj"><img src="https://github.com/Cholicer/Portfolio/assets/58261264/0bfe5ee3-068d-46af-b4b3-4ea929025b0a" width="500" height="400"></a>
 </div>
 
 ---
