@@ -30,7 +30,7 @@ Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
     
 ---
 
-**What a dogs##t.**
+**What a dogs##t, isn't it?**
 
 My last project that i posted here is [flowrise](https://github.com/Cholicer/flowrise-nuxt-arsy) you can see the [demo](https://flowrise-nuxt-arsy.vercel.app/). 
 
