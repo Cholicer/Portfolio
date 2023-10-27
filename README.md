@@ -34,11 +34,13 @@ My last project that i posted here is [flowrise](https://github.com/Cholicer/flo
 It was made with Prismic CMS and [YT] guidance.
 
 Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtube.com/@johnweeksdev)):
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266" width="600">
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a" width="600">
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe" width="600">
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6" width="600">
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90" width="600">
-<img src="https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6" width="600">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266" width="400">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/397bf97c-9866-48a0-baa1-8a3182c3ec1a" width="400">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/2f5c5054-c009-4f2f-8b22-5cce10ec45fe" width="400">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/14bdf5b5-1ffb-4ab1-9339-548fee64d1f6" width="400">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/69209337-d92c-4025-b3c0-657e4d0f3c90" width="400">
+<img src="https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6" width="400">
+</div>
 
 Still unemployed
