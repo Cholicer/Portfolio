@@ -5,7 +5,6 @@ Below are the projects I did while studying Frontend.
 
 Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
 
-
 ## My Projects
 1. [YT] Image Gallery Website: [GitHub](https://github.com/Cholicer/01_Image_Gallery_Website) | [View Live](https://cholicer.github.io/01_Image_Gallery_Website/)
 
@@ -28,10 +27,13 @@ Some are made from lessons from YouTube, they are marked with the brand '[YT]'.
 10. [YT] Complete Hospital Website: [GitHub](https://github.com/Cholicer/10_Complete_Hospital_Website) | [View Live](https://cholicer.github.io/10_Complete_Hospital_Website/)
 
 11. Beginner's UI: [GitHub](https://github.com/Cholicer/11_Beginners_UI) | [View Live](https://cholicer.github.io/11_Beginners_UI/)
-
+    
+---
 
 What a dogs##t.
+
 My last project that i posted here is [flowrise](https://github.com/Cholicer/flowrise-nuxt-arsy) you can see the [demo](https://flowrise-nuxt-arsy.vercel.app/). 
+
 It was made with Prismic CMS and [YT] guidance.
 
 
@@ -46,5 +48,6 @@ Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtub
 <img src="https://github.com/Cholicer/Portfolio/assets/58261264/12b76bc2-21e2-4f10-9ca9-b8c4279eaeb6" width="500" height="400">
 </div>
 
+---
 
 Still unemployed
