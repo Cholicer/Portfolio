@@ -37,7 +37,7 @@ My last project that i posted here is [flowrise](https://github.com/Cholicer/flo
 It was made with Prismic CMS and [YT] guidance.
 
 
-Also i did these [YT] projects (Shout out to [John Weeks Dev](https://www.youtube.com/@johnweeksdev)):
+Also i did these [YT] projects (shout out to [John Weeks Dev](https://www.youtube.com/@johnweeksdev)):
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
     <img src="https://github.com/Cholicer/Portfolio/assets/58261264/5e866687-d0e8-4ea6-85e3-1079cac65266" width="500" height="400">
